@@ -2,20 +2,19 @@
 
 body { 
   /*center all the elements */
-  
-  
   /* add a background image of space */
-  
-     
 }
 
-h1 {
-  
+p {
   /* make this color white with a hot pink background
   and bold text */
   font-family: Tahoma, sans-serif
-  
-   
+}
+
+h1 {
+  /* make this color white with a hot pink background
+  and bold text */
+  font-family: Tahoma, sans-serif
 }
 
 /* Add additional rules:
