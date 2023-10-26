@@ -17,3 +17,6 @@ Import the font and apply the style
 
 <h3> Challenge #4: </h3>
 Explore “Text-align”
+
+<h3> Challenge #5: </h3>
+Play around with the box size, padding and colors. 
